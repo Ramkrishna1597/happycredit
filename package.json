@@ -1,0 +1,26 @@
+{
+  "name": "happycredit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon /index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramkrishna1597/happycredit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramkrishna1597/happycredit/issues"
+  },
+  "homepage": "https://github.com/Ramkrishna1597/happycredit#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19"
+  }
+}
